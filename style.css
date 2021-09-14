@@ -37,7 +37,7 @@ h3 {
 }
 
 audio {
-  width: 0px;
+  width: 400px;
 }
 
 a {
@@ -46,4 +46,16 @@ a {
   font-family: Arial, Helvetica, sans-serif;
   text-align: left;
   margin-left: 25px;
+}
+
+.comingsoon {
+  text-align: left;
+  font-family: arial;
+  font-size: 60px;
+}
+
+.meanwhile {
+  text-align: left;
+  font-family: arial;
+  font-size: 60px;
 }
