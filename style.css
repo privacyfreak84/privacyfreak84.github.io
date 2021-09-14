@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -54,8 +59,28 @@ a {
   font-size: 60px;
 }
 
-.meanwhile {
-  text-align: left;
-  font-family: arial;
-  font-size: 60px;
+ul li {
+  list-style: none;
+  color: #5F638A;
+  font-size: 30px;
+  z-index: 1000;
+  display: inline-block;
+  line-height: 100px;
+}
+
+nav {
+  padding-top: -10;
+  margin-top: -10;
+  position: fixed;
+  width: 600000px;
+  background-color: #42445A;
+  align-content: center;
+  line-height: 50px;
+}
+
+
+
+ul li a {
+  font-family: 'ManilaSansBold';
+  z-index: 1000;
 }
