@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+    font-size: 15px;
+    background-color: #42445A;
+    margin-left: 30px;
+}
+
+.h1index {
+  text-align: left;
+  font-size: 150px;
+  font-family: 'SingleDayRegular';
+  font-weight: 10007;
+  margin-top: 0;
+  
+}
+
+.subheading {
+  text-align: left;
+  font-size: 50px;
+  font-family: 'SingleDayRegular';
+}
+
+h2 {
+  text-align: left;
+  font-size: 50px;
+  font-family: 'SingleDayRegular';
+}
+
+h3 {
+  text-align: left;
+  font-size: 30px;
+  font-family: 'SingleDayRegular';
+  font-style: italic;
+}
+
+audio {
+  width: 400px;
+}
+
+a {
+  text-decoration: none;
+  color: #56568C;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  margin-left: 25px;
+}
+
+.comingsoon {
+  text-align: left;
+  font-family: arial;
+  font-size: 60px;
+}
+
+ul li {
+  list-style: none;
+  color: #5F638A;
+  font-size: 25px;
+  z-index: 1000;
+  display: inline-block;
+  line-height: 100px;
+  text-align: left;
+}
+
+nav {
+  padding-top: -10;
+  margin-top: -10;
+  position: fixed;
+  width: 600000px;
+  background-color: #42445A;
+  align-content: center;
+  line-height: 50px;
+}
+
+
+
+ul li a {
+  font-family: 'ManilaSansBold';
+  z-index: 1000;
+}
+
+.indexintro {
+  font-family: 'SingleDayRegular'
+}
+
+p {
+ font-size: 40px;
+ font-family: 'SingleDayRegular'
+}
+
+.indexsongslink {
+  font-size: 40px;
+  font-family: 'SingleDayRegular'
+}
+
+.socialslol {
+  font-size: 40px;
+  font-family: 'SingleDayRegular'
+}
+
+.bandlabfollow {
+  font-family: 'SingleDayRegular'
+}
+
+.comingsoon {
+  text-align: center;
+  font-family: 'SingleDayRegular'
+}
