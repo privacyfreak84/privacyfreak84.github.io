@@ -2,6 +2,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 /* Global styles */
@@ -12,31 +13,15 @@ body {
   line-height: 1.6;
 }
 
-/* Header styles */
-header {
-  background-color: #3B4252;
-  padding: 40px 20px;
-  text-align: center;
-}
-
-header h1 {
-  font-size: 32px;
-  margin-bottom: 10px;
-}
-
-header p {
-  font-size: 18px;
-}
-
 /* Navigation styles */
 nav {
-  background-color: #4C566A;
-  padding: 10px 20px;
+  background-color: #3B4252;
+  padding: 20px;
+  text-align: center;
 }
 
 nav ul {
   list-style-type: none;
-  text-align: center;
 }
 
 nav ul li {
@@ -53,6 +38,21 @@ nav ul li a {
 /* Main content styles */
 main {
   padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 16px;
 }
 
 /* Footer styles */
@@ -66,3 +66,4 @@ footer p {
   font-size: 14px;
   margin-top: 10px;
 }
+
