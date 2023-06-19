@@ -1,3 +1,4 @@
+
 /* Reset default margin and padding */
 * {
   margin: 0;
@@ -42,17 +43,52 @@ main {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 48px;
   margin-bottom: 10px;
+  color: #88C0D0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 28px;
   margin-bottom: 20px;
+  color: #ECEFF4;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 p {
-  font-size: 16px;
+  font-size: 18px;
+}
+
+/* Portfolio styles */
+#portfolio {
+  margin-top: 60px;
+}
+
+#portfolio p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+/* Contact styles */
+#contact {
+  margin-top: 60px;
+}
+
+#contact h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #88C0D0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#contact p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+#contact a {
+  color: #88C0D0;
 }
 
 /* Footer styles */
@@ -65,5 +101,6 @@ footer {
 footer p {
   font-size: 14px;
   margin-top: 10px;
+  color: #ECEFF4;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
-
