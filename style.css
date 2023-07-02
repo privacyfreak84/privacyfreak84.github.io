@@ -71,3 +71,9 @@ i {
   font-family: Arial, Helvetica, sans-serif;
   color: white;
 }
+
+strong {
+  padding-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
