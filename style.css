@@ -30,6 +30,12 @@ h2 {
     color: white;
 }
 
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 20px;
+  color: white;
+}
+
 div {
     padding-left: 20px;
 }
