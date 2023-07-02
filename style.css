@@ -1,0 +1,48 @@
+body {
+    background-color: #17213ba1
+}
+
+.introtext {
+    font-weight: bolder;
+    color: rgb(226, 190, 31);
+}
+
+nav ul li {
+    padding-top: 100px;
+    font-size: calc(15px + 0.390625vw);
+    display: inline;
+    padding-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: blanchedalmond;
+    font-size: 23px;
+    text-align: center;
+    font-size: calc(15px + 0.390625vw);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;   
+}
+
+div {
+    padding-left: 20px;
+}
+
+div a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 20px;
+}
+
+p {
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.geekringintrotext {
+    padding-left: 0px;
+}
