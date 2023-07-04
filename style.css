@@ -8,6 +8,10 @@ body {
     color: #fdfdfd;
 }
 
+nav {
+    margin-left:5px
+}
+
 nav ul li {
     padding-top: 100px;
     font-size: calc(15px + 0.390625vw);
