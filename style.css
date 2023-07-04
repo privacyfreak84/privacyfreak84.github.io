@@ -12,10 +12,11 @@ nav ul li {
     padding-top: 100px;
     font-size: calc(15px + 0.390625vw);
     display: inline;
-    padding-right: 15px;
+    padding-right: 10px;
 }
 
 nav ul li a {
+    margin-right: 5px;
     text-decoration: none;
     color: blanchedalmond;
   /*  font-size: 23px; */
