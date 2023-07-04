@@ -24,6 +24,12 @@ nav ul li a {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    color: white;
+}
+
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 20px;
@@ -80,10 +86,4 @@ strong {
 
 .rwatext {
     padding-left: 0px;
-}
-
-h3 {
-  font-family: Arial, Helvetica, sans-serif;
-    padding-left: 20px;
-    color: white;
 }
