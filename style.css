@@ -14,7 +14,7 @@ nav ul {
 
 nav ul li {
     padding-top: 100px;
-    font-size: calc(15px + 0.390625vw);
+    font-size: calc(12px + 0.390625vw);
     display: inline;
     padding-right: 10px;
 }
@@ -24,7 +24,7 @@ nav ul li a {
     color: blanchedalmond;
   /*  font-size: 23px; */
   /*  text-align: center; */
-    font-size: calc(15px + 0.390625vw);
+    font-size: calc(12px + 0.390625vw);
     font-family: Arial, Helvetica, sans-serif;
 }
 
