@@ -10,12 +10,13 @@ body {
 
 nav ul {
     margin-left:5px
+    font-size: 13px;
 }
 
 nav ul li {
     padding-top: 100px;
     font-size: calc(15px + 0.390625vw);
-    display: flex;
+    display: inline;
     padding-right: 10px;
 }
 
