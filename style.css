@@ -9,9 +9,7 @@ body {
 }
 
 nav ul {
-    margin-left:5px
-    font-size: 13px;
-    overflow: hidden;
+    margin-left:5px;
 }
 
 nav ul li {
@@ -35,7 +33,7 @@ nav ul li a {
 
 h3 {
     font-family: Arial, Helvetica, sans-serif;
-    padding-left: 20px;
+    padding-left: 10px;
     color: white;
 }
 
