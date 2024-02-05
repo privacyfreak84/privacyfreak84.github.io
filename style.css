@@ -1,11 +1,11 @@
 body {
-    background-color: #5a5959;
+    background-color: #0f0a18;
 }
 
 .introtext {
     font-weight: bolder;
     font-size: 13px;
-    color: #fdfdfd;
+    color: #c76367;
 }
 
 nav ul {
@@ -24,7 +24,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: blanchedalmond;
+    color: #c76367;
   /*  font-size: 23px; */
   /*  text-align: center; */
     font-size: calc(15px + 0.390625vw);
@@ -35,19 +35,19 @@ nav ul li a {
 h3 {
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 10px;
-    color: white;
+    color: #c76367;
 }
 
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 20px;
-    color: white;
+    color: #c76367;
 }
 
 h1 {
   font-family: Arial, Helvetica, sans-serif;
   padding-left: 20px;
-  color: white;
+  color: #c76367;
 }
 
 div {
@@ -56,7 +56,7 @@ div {
 
 div a {
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: #c76367;
     padding-left: 20px;
 }
 
@@ -64,7 +64,7 @@ p {
     padding-left: 20px;
     padding-right: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: #c76367;
 }
 
 .geekringintrotext {
@@ -78,19 +78,19 @@ p {
 a {
   padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  color: #c76367;
 }
 
 i {
   padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  color: #c76367;
 }
 
 strong {
   padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  color: #c76367;
 }
 
 .rwatext {
