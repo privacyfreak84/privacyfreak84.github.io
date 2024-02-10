@@ -96,3 +96,8 @@ strong {
 .rwatext {
     padding-left: 0px;
 }
+
+::selection {
+  color: rgb(181, 192, 201);
+  background: #723234;
+}
