@@ -24,7 +24,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    font-color: #ffffff;
+    color: #c76367;
   /*  font-size: 23px; */
   /*  text-align: center; */
     font-size: calc(15px + 0.390625vw);
@@ -32,10 +32,22 @@ nav ul li a {
     overflow: hidden;
 }
 
+section {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 20px;
+  color: #c76367;
+}
+
 h3 {
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 10px;
     color: #c76367;
+}
+
+h3 a {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 10px;
+  color: #c76367;
 }
 
 h2 {
@@ -56,7 +68,7 @@ div {
 
 div a {
     font-family: Arial, Helvetica, sans-serif;
-    font-color: #ffffff;
+    color: #c76367;
     padding-left: 20px;
 }
 
@@ -64,7 +76,7 @@ p {
     padding-left: 20px;
     padding-right: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #ffffff;
+    color: #c76367;
 }
 
 .geekringintrotext {
@@ -76,9 +88,9 @@ p {
 }
 
 a {
-  padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  font-color: #ffffff;
+  padding-left: 20px;
+  color: #c76367;
 }
 
 i {
