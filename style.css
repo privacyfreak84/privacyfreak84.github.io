@@ -105,6 +105,10 @@ strong {
   font-color: #5da2db;
 }
 
+article {
+  padding-left: 10px;
+}
+
 .rwatext {
     padding-left: 0px;
 }
