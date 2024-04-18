@@ -24,7 +24,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #c76367;
+    color: #9b9b9b;
   /*  font-size: 23px; */
   /*  text-align: center; */
     font-size: calc(15px + 0.390625vw);
@@ -56,7 +56,7 @@ div {
 
 div a {
     font-family: Arial, Helvetica, sans-serif;
-    color: #c76367;
+    color: #9b9b9b;
     padding-left: 20px;
 }
 
@@ -64,7 +64,7 @@ p {
     padding-left: 20px;
     padding-right: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #c76367;
+    color: #9b9b9b;
 }
 
 .geekringintrotext {
@@ -78,19 +78,19 @@ p {
 a {
   padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color: #c76367;
+  color: #9b9b9b;
 }
 
 i {
   padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color: #c76367;
+  color: #9b9b9b;
 }
 
 strong {
   padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color: #c76367;
+  color: #a10909;
 }
 
 .rwatext {
