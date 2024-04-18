@@ -24,7 +24,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #ffffff;
+    font-color: #ffffff;
   /*  font-size: 23px; */
   /*  text-align: center; */
     font-size: calc(15px + 0.390625vw);
@@ -56,7 +56,7 @@ div {
 
 div a {
     font-family: Arial, Helvetica, sans-serif;
-    color: #ffffff;
+    font-color: #ffffff;
     padding-left: 20px;
 }
 
@@ -78,19 +78,19 @@ p {
 a {
   padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color: #ffffff;
+  font-color: #ffffff;
 }
 
 i {
   padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color: #ffffff;
+  font-color: #ffffff;
 }
 
 strong {
   padding-left: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color: #ffffff;
+  font-color: #5da2db;
 }
 
 .rwatext {
