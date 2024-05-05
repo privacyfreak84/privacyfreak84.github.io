@@ -94,9 +94,10 @@ a {
 }
 
 i {
-  padding-left: 20px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c76367;
 }
 
 strong {
